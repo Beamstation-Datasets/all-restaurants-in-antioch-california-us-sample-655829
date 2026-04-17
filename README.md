@@ -1,6 +1,6 @@
 # All Restaurants in Antioch, California, US
 
-> Free BeamStation sample export with 6 rows and masked direct-contact fields.
+> Free BeamStation sample export with 11 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `655829` |
 | Location | Antioch |
 | Category | Restaurants |
-| Full dataset size | 65 records |
-| Free sample size | 6 records (9.23%) |
-| Last export | 2026-03-31T15:35:27.159183+00:00 |
+| Full dataset size | 114 records |
+| Free sample size | 11 records (9.65%) |
+| Last export | 2026-04-14T16:22:58.756327+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-antioch-california-us-sample-655829/releases/download/sample-latest/beamstation_655829_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
