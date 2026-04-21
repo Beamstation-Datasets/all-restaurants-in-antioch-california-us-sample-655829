@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2cc04c25-6bc7-44c0-a0e1-47a6db547f94",
+  "export_job_id": "3f20e16f-d23e-460c-bb61-48e121fe59b2",
   "id_short": 655829,
-  "published_at": "2026-04-17T19:49:03Z",
+  "published_at": "2026-04-21T19:39:51Z",
   "repo_name": "all-restaurants-in-antioch-california-us-sample-655829",
   "sample_asset_name": "beamstation_655829_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/655829/beamstation_655829_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 11,
-  "sample_sha256": "e7fe176496267162ba80b20750a08a77761f0aac895800858d8d1d719b00724e",
-  "sample_size_bytes": 49872,
-  "total_records": 114
+  "sample_records": 7,
+  "sample_sha256": "8875e650f5df315283846976f4af51e1689676d2cfb12af8bb600f0b46e92b73",
+  "sample_size_bytes": 40132,
+  "total_records": 70
 }
